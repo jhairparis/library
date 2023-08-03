@@ -1,5 +1,5 @@
 import type { JsonType } from "@/types/data";
-import b from "../../books.json";
+import b from "../public/books.json";
 import type { GenreType } from "@/types/context";
 
 export default function read() {
